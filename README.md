@@ -1,10 +1,17 @@
 ### Olá, eu sou Gabriel Gomes 👋
 Eu sou estudante de Ciências da Computação de Belo Horizonte-MG
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C-Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+<div><br>
+  <p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gomes346&show_icons=true&locale=en&theme=dark"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gomes346&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  </p>
+  
 </div>
 
 ###
